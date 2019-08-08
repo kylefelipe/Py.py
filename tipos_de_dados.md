@@ -1,6 +1,6 @@
 ## Tipos de dados em Python
 
-Nesse pequeno artigo, será introduzido o conseito de tipos de dados em Python.
+Nesse pequeno artigo, será introduzido o conceito de tipos de dados em Python.
 
 Em Python, existem dois tipos de dados:
 
@@ -8,7 +8,7 @@ Em Python, existem dois tipos de dados:
 
       2. Colecionáveis: Como strings, tuplas, listas, conjuntos e dicionários
 
-Pode-se atribuir qualquer tipo de dados a um variável, como por exemplo:
+Pode-se atribuir qualquer tipo de dados a uma variável, como por exemplo:
 
 ```
 num = 5
